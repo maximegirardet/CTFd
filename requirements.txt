@@ -18,9 +18,9 @@ banal==1.0.6
     # via dataset
 bcrypt==4.0.1
     # via -r requirements.in
-boto3==1.35.27
+boto3==1.35.63
     # via -r requirements.in
-botocore==1.35.27
+botocore==1.35.63
     # via
     #   boto3
     #   s3transfer
